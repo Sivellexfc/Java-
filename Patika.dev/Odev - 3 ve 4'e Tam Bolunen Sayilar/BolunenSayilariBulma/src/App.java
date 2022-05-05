@@ -14,6 +14,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         int sum = 0;
+        int counter = 0;
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Deger giriniz   : ");
@@ -21,16 +22,16 @@ public class App {
 
         scanner.close();
         
-        for (int i = 0; i < number; i++) {
+        for (int i = 1; i < number; i++) {
 
             if(i%3 == 0 && i%4 == 0) {
-
+                counter = counter + 1;
                 sum = sum + i;
             }
             
         }
 
-        System.out.print(sum);
+        System.out.print(sum/counter);
 
     }
 }
