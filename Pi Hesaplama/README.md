@@ -1,8 +1,10 @@
 ## PI Sayisini Sonsuz Dizi Toplamı Kullanarak Bulmak
 
+
 PI sayısını aşağıdaki sonsuz seri toplamını kullanarak hesapladık.
 
 ![Screenshot_5](https://user-images.githubusercontent.com/91620498/167270936-d227e1dc-239c-4685-b82d-0043bce96c5f.png)
+
 
 
 ``` 
