@@ -1,10 +1,11 @@
-### CENG 122 Nesneye Y¨onelik Programlama Laboratuvarı
+# CENG 122 Nesneye Yönelik Programlama Laboratuvarı
 ## LAB 9
-# 26 Nisan 2022
-## 1 AMAC¸
-a. Classları derinlemesine ¨o˘grenme,
-## 2 YAPILACAKLAR
-• tavşan ve Kaplumbağa
+#### 26 Nisan 2022
+### 1) AMAÇ
+Classları derinlemesine öğrenme,
+### 2) YAPILACAKLAR
+
+• Tavşan ve Kaplumbağa
 (Benzetim: Kaplumbağa(lar) ve Tavşan(lar))'ın yarışmacı 70 tane karelik bir yolun ilk karesinden
 yarışa başlayacaktır. Her kare yarış boyunca yarışmacıların bulunabileceği yerleri ifade etmektedir. 70. kareye ilk varan ya da ge¸cen, yarışmayı kazanacaktır. Yarışı kaygan bir zeminde olduğu
 işin yarışmacılar zaman zaman kayabilmektedir. Her iterasyonda bir kere rasgele sayı üretilerek
